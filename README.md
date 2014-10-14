@@ -1,0 +1,4 @@
+CryptoPussy
+===========
+
+Cryptocat Development
